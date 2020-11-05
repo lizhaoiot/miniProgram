@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <navigator url="/pages/qiyu/index">前往七鱼</navigator>
+</view>
